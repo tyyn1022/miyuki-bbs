@@ -12,5 +12,5 @@ func main()  {
 	}
 	r := gin.Default()
 
-	r.Run(cfg)
+	r.Run(80)
 }
